@@ -1,0 +1,4 @@
+#ignore all non-essential files
+*.vscode
+# ignore ALL files in ANY directory named temp
+hsh/
