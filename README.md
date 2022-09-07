@@ -45,6 +45,6 @@ Our shell can run outside programs by typing their absolute paths (/bin/ls) or t
 
 
 ### Credits
-All code written by [Daniel](https://github.com/dkkiooko) and [Meshack](https://github.com/MMusembei).
+All code written by [Daniel](https://github.com/dkiooko) and [Meshack](https://github.com/MMusembei).
 
 
