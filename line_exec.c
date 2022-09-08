@@ -60,7 +60,7 @@ void execute(char **argv)
 	}
 	if (d == 0)
 	{
-		execve(argv[0], argv, environ)
+		execve(argv[0], argv, environ);
 			perror(argv[0]);
 		exit(EXIT_FAILURE);
 	}
