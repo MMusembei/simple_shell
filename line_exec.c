@@ -64,7 +64,7 @@ void execute(char **argv)
 			perror(argv[0]);
 		exit(EXIT_FAILURE);
 	}
-	wait(&status)
+	wait(&status);
 }
 /**
 * _realloc - Reallocates memory block
